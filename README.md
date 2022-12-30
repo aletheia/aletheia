@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aletheia
+- 👀 I’m interested in serverless, cloud, and machine learning
+- 🌱 I’m currently deep diving into machine leraning and AI
+- 💞️ I’m looking to collaborate on coding source projects, particularly cloud related and with AI
+- 📫 Contact me on [Twitter](https://twitter.com/bianchiluca), [LinkedIn](https://www.linkedin.com/in/lucabianchipavia/), or [the Fediverse](https://hachyderm.io/@lucabianchi)
